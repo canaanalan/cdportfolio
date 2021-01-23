@@ -370,15 +370,6 @@ section {
   .hero {
     height: 90vh;
   }
-  .social-link {
-    min-width: 30px;
-    opacity: .9;
-  }
-  .social-link2 {
-    min-width: 35px;
-    opacity: .9;
-    margin-top: -.2em;
-  }
   .nav-container {
     display: -ms-grid;
     display: grid;
